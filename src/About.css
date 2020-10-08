@@ -1,0 +1,31 @@
+.elts{
+    display: flex;
+    flex-direction: column;
+}
+nav{
+    display:flex;
+    color: whitesmoke;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    background-image: url("https://i.pinimg.com/564x/e3/f9/20/e3f920f48e2c76d72cf1e7f935f3d3ba.jpg");
+    
+}
+.identification, .resume, .introduction, .work{
+    margin-left: 90px;
+    
+}
+
+h1{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: violet;
+}
+iframe{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+body{
+    color: violet;
+    background-image: url("");
+}
